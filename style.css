@@ -646,6 +646,10 @@ footer .copyright{
         width: 100%;
     }
 
+    nav .container ul li a{
+        width: 5rem;
+    }
+
     section.landing{
         margin-top: -4rem;
         padding-bottom: 7rem;
