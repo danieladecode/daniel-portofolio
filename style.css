@@ -754,7 +754,7 @@ footer .copyright{
         align-items: center;
         justify-content: center; 
         width:30%;
-        margin-right: .5rem;
+        margin-right: .3rem;
         box-shadow: 0 0 .2rem var(--color-black);
         margin-bottom: .5rem;
     }
